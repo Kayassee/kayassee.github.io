@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kais Nielsen-Messadeq - Aspiring Professional Footballer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E7E9DB; /* A light shade representing the white in the Brazilian flag */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #009C3B; /* Green from Brazilian flag */
+            color: #FFF;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+            background-image: url('https://example.com/your-image-url-here.jpg'); /* Ideally, use a football-related image */
+            background-size: cover;
+            background-position: center;
+        }
+        .contact {
+            background-color: #3E4095; /* Blue from Brazilian flag */
+            color: #FFF;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Kais Nielsen-Messadeq</h1>
+        <h3>Aspiring Professional Footballer</h3>
+    </div>
+    <div class="content">
+        <p>
+            Hello! I'm Kais, a 16-year-old footballer with Brazilian roots, currently living in Quebec. My dream is to play professional football and I'm seeking a trial to showcase my skills and passion for the game.
+        </p>
+        <p>
+            Football and Brazil are an integral part of who I am, and I'm determined to make my mark in the world of professional football.
+        </p>
+    </div>
+    <div class="contact">
+        <h3>Contact Me</h3>
+        <p>If you have any opportunities or would like to discuss a potential trial, please reach out to me:</p>
+        <p>Phone: <a href="tel:+15813977866">581-397-7866</a></p>
+    </div>
+</body>
+</html>
